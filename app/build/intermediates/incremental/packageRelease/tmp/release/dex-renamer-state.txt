@@ -1,0 +1,4 @@
+#Mon Nov 18 10:22:25 CST 2019
+base.0=D\:\\androidpro\\Android-PickerView-master\\xinwangyaoye\\app\\build\\intermediates\\transforms\\r8\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
